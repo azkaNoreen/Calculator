@@ -1,6 +1,5 @@
 # Calculator
 </br>
-
 <bold>See screenshot for better understanding</bold>
 </br>
 ![image](https://user-images.githubusercontent.com/99603170/197010830-55cee393-fdd6-4607-934d-8f28ce7a39c3.png)
