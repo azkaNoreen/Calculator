@@ -4,9 +4,9 @@ Also contain Asma-ul-husna
 </br>
 <bold>See screenshot for better understanding</bold>
 </br>Splash Screen</br>
-![image](https://user-images.githubusercontent.com/99603170/195157100-723e08b7-dcf3-46bd-97a8-fe029dd1193e.png)
+![image](https://user-images.githubusercontent.com/99603170/197010830-55cee393-fdd6-4607-934d-8f28ce7a39c3.png)
 </br>Home Screen</br>
-![image](https://user-images.githubusercontent.com/99603170/195157805-1a0e17b1-b5c8-4ce7-ac1e-065b609717f0.png)
+![image](https://user-images.githubusercontent.com/99603170/197010908-3855d1eb-7d10-4803-94a3-d5f0177f904a.png)
 </br>Menu</br>
 ![image](https://user-images.githubusercontent.com/99603170/195157670-a2f10133-dfe9-4732-9e20-2bb0865c4384.png)
 </br>Surahs List</br>
@@ -18,6 +18,12 @@ Also contain Asma-ul-husna
 </br>Asma-ul-Husna Screen</br>
 ![image](https://user-images.githubusercontent.com/99603170/195157851-ac809557-2d62-4ad2-9fec-158212bea7c9.png)
 
-
+# Calculator
+</br>
+<bold>See screenshot for better understanding</bold>
+</br>
+![image](https://user-images.githubusercontent.com/99603170/197010830-55cee393-fdd6-4607-934d-8f28ce7a39c3.png)
+</br>
+![image](https://user-images.githubusercontent.com/99603170/197010908-3855d1eb-7d10-4803-94a3-d5f0177f904a.png)</br>
 
 
