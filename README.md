@@ -2,9 +2,9 @@
 An app for calculation
 </br>
 <bold>See screenshot for better understanding</bold>
-</br>Splash Screen</br>
+</br>Screen 1</br>
 ![image](https://user-images.githubusercontent.com/99603170/197010908-3855d1eb-7d10-4803-94a3-d5f0177f904a.png)</br>
-</br>Home Screen</br>
+</br>Screen 2</br>
 ![image](https://user-images.githubusercontent.com/99603170/197010830-55cee393-fdd6-4607-934d-8f28ce7a39c3.png)
 </br>Menu</br>
 ![image](https://user-images.githubusercontent.com/99603170/195157670-a2f10133-dfe9-4732-9e20-2bb0865c4384.png)
